@@ -1,0 +1,4 @@
+twotothepoweroffive = 2**5
+print(twotothepoweroffive)
+anotherformula = 5 * 4 / 2 + 9 - 8
+print(anotherformula)
